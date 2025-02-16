@@ -1,1 +1,0 @@
-(self.webpackChunk_genially_view_client=self.webpackChunk_genially_view_client||[]).push([[987,784],{5458:()=>{},66784:()=>{}}]);
